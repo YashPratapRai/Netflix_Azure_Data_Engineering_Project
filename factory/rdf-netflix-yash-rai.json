@@ -1,0 +1,9 @@
+{
+	"name": "rdf-netflix-yash-rai",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d7d39cd0-99fa-42d8-99d2-e7109c1069c7",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
